@@ -1,0 +1,1 @@
+# Analisis-Faktor-Dominan-dan-Pemodelan-Spasial-untuk-Prediksi-Kejernihan-Air-Danau
